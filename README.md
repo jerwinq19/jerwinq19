@@ -1,31 +1,41 @@
 # Hi there! 👋 I'm Jerwin Nico H. Quijano
 
-I'm a 2nd year **BSIT student** passionate about becoming a **Front-End Developer**. I enjoy building dynamic and interactive web interfaces, and I love learning new technologies to improve my skill set. 
+I'm a 2nd-year **BSIT student** with a strong passion for **Front-End Development**. I love building clean, dynamic, and responsive web interfaces using modern tools and technologies. I'm currently sharpening my React skills through a **one-app-per-week mini roadmap**, focusing on practical, real-world projects.
 
-## 🛠️ My Skills:
+## 🚀 What I'm Working On
+- 🧠 Improving my React and Tailwind CSS proficiency
+- 🛠 Building a **Calorie Tracker App** using Django and the Spoonacular API
+- 📅 Following a weekly project roadmap to master front-end development
+
+## 🛠️ My Skills
 - **Languages**: JavaScript, HTML, CSS, Python
-- **Frameworks**: Flask
-- **Tools**: Git, VS Code, Figma (basic)
+- **Frameworks & Libraries**: React, Flask, Tailwind CSS
+- **Tools**: Git, VS Code, Figma (basic), GitHub
 
-## 🔥 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerwinq19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerwinq19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 🔧 Technologies I Use
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-## 🔧 Technologies I Use:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerwinq19&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerwinq19&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
 
-Feel free to explore my repositories to see my projects! I'm always looking forward to collaborating and learning more in the field of front-end development.
+🎯 **Always eager to learn, build, and grow.**  
+Feel free to explore my repositories. I’m open to collaboration and excited to connect with fellow developers!
