@@ -7,15 +7,6 @@ Currently, I’m sharpening my skills by following a **one-app-per-week mini roa
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🔧 Deepening my knowledge of **Express.js**, REST APIs, and HTTP fundamentals
-- 🛠 Building a **Calorie Tracker App** using Django + Spoonacular API
-- 💡 Creating a mini **Blogs API** from scratch (no DB yet!)
-- 📅 Sticking to a weekly project roadmap to master full-stack development
-
----
-
 ## 🛠️ My Skills
 
 - **Languages**: JavaScript, HTML, CSS, Python
