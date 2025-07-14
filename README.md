@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jerwin Nico H. Quijano
 
-I'm a 2nd-year **BSIT student** with a strong passion for **Full-Stack Web Development**.  
+I'm a 3rd-year **BSIT student** with a strong passion for **Full-Stack Web Development**.  
 I love building clean, dynamic, and responsive web interfaces — but I’m also diving deeper into **back-end development** using Express.js, SQLite, and Django REST APIs.
 
 Currently, I’m sharpening my skills by following a **one-app-per-week mini roadmap**, balancing both front-end and back-end projects for real-world experience.
